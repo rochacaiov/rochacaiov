@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(34, 32, 32);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 200;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 70px;
+}
+
+.nav-area {
+    list-style: none;
+}
+
+.nav-area li {
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+
+.nav-area li a {
+    transition: .3s;
+    color: #ffffff;
+}
+
+.nav-area li a:hover {
+    color: #BA68C8;
+}
+
+.container-hello {
+    position: absolute;
+    display: inline-block;
+    width: 641px;
+    height: 251px;
+    left: 102px;
+    top: 150px;
+
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.container-hello span {
+    color: #BA68C8;
+}
+
+.container-hello h1 {
+    font-size: 48px;
+}
+
+.container-hello #description {
+    font-family: Poppins;
+    font-weight: 200;
+    font-size: 18px;
+    text-transform: none;
+}
+
+#developer {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    left: 750px;
+    top: 80px;
+}
+
+
+/**
+    @ BUTTONSrgba(228, 228, 228, 0.08)
+**/
+.btn_outline {
+    position: absolute;
+    display: inline-flex;
+    width: 200px;
+    height: 50px;
+    left: 102px;
+    top: 410px;
+    border-radius: 1000px;
+    border: 1px solid #717171;
+
+    outline: none;
+    overflow: hidden;
+    cursor: pointer;
+    background: transparent;
+
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn_outline:hover, .btn_outline_text:hover{
+    background: #BA68C8;
+    color: black;
+}
+
+.btn_outline:active, .btn_outline_text:active {
+    background: rgb(34, 32, 32);
+    color: #ffffff;
+}
+
+.btn_outline_icon, .btn_outline_text {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 5px;
+    color: #ffffff;
+    height: 100%;
+}
+
+.btn_outline_icon {
+    font-size: 1.5em;
+    background: #BA68C8;
+    width: 25%;
+    margin-right: 10px;
+    border-radius: 40px;
+}
+
+.btn_outline_icon img {
+    width: 40px;
+}
+
+.btn_outline_text {
+    padding-left: 0px;
+}
