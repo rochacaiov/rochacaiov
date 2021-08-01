@@ -2,7 +2,9 @@
 
 Desenvolvedor de sistemas back-end especializado em Java. Iniciado no mundo da tecnologia desde 2012, onde tive a oportunidade de poder desenvolver e gerenciar servidores para jogos. Após isso, pude me conectar de forma eficaz com esse mundo e obtive um NORTE para poder aprender a desenvolver sistemas.
 
-- 💬 Pergunte-me sobre <b>Java, Spring, Hibernate, JPA
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+
+- 🌱 Estudando SPRING com foco em Dev. Java Back-end
   
 - 📫 Me encontre em: https://vrochacaio.github.io/vrochacaio/
 
@@ -21,12 +23,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrochacaio&exclude_repo=vrochacaio&hide_title=true&theme=gotham">
+<div>
+  </br>
+  <p align="center">
+  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="30" width="40"/></a>
+  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
+</div>
+ 
+<div>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrochacaio&exclude_repo=vrochacaio&hide_title=true&theme=gotham"/>
+</div>
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
   
 <div>
-  <p align="center"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  </br>
+  </br>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -41,10 +56,4 @@ Here are some ideas to get you started:
   </br>
   </br>
   <img src="https://komarev.com/ghpvc/?username=vrochacaio&color=blueviolet">
-</div> 
-  
-
-
-
-
-
+</div>
