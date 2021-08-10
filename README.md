@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Caio!
 
-Desenvolvedor de sistemas back-end especializado em Java. Iniciado no mundo da tecnologia desde 2012, onde tive a oportunidade de poder desenvolver e gerenciar servidores para jogos. Após isso, pude me conectar de forma eficaz com esse mundo e obtive um NORTE para poder aprender a desenvolver sistemas.
+Desenvolvedor de sistemas back-end especializado em Java. Iniciado no mundo da tecnologia desde 2012, onde tive a oportunidade de desenvolver e gerenciar servidores para jogos. Após isso, pude me conectar de forma eficaz com esse mundo e obtive um NORTE para poder aprender a desenvolver sistemas.
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando SPRING com foco em Dev. Java Back-end
