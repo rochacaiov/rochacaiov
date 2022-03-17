@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  
 <div>
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrochacaio&exclude_repo=vrochacaio&hide_title=true&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochacaiov&exclude_repo=vrochacaio&hide_title=true&theme=gotham"/>
 </div>
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
