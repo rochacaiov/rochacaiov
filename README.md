@@ -2,9 +2,11 @@
 
 Desenvolvedor de sistemas back-end especializado em Java. Iniciado no mundo da tecnologia desde 2012, onde tive a oportunidade de desenvolver e gerenciar servidores para jogos. Hoje com mais de anos no mercado, tive a experiência na construção de um RPA (Robot Process Automation) com objetivo em gestão de segurança, modelagem de diversas entidades no banco de dados, experiências com muitas API's, dentre elas: Rapid7, Telegram, Google e outras.
 
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🔭 Trabalhando em desenvolvimento de softwares na área de segurança digital
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando SPRING com foco em Dev. Java Back-end
-- 📫 Me encontre em: https://vrochacaio.github.io/vrochacaio/
+
+- 📫 Me encontre em: https://discord.gg/zV2ATsJxH7
 
 <!--
 **vrochacaio/vrochacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
