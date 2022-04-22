@@ -4,8 +4,7 @@ Desenvolvedor de sistemas back-end especializado em Java. Iniciado no mundo da t
 
 - 🔭 Trabalhando em desenvolvimento de softwares na área de segurança digital
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando SPRING com foco em Dev. Java Back-end
-
+- 🌱 Estudando Spring com foco em Dev. Java Back-end
 - 📫 Me encontre em: https://discord.gg/zV2ATsJxH7
 
 <!--
