@@ -5,7 +5,7 @@ Desenvolvedor de sistemas back-end especializado em Java. Iniciado no mundo da t
 - 🔭 Trabalhando em ?
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Spring & Angular
-- 📫 Me encontre em: https://discord.gg/zV2ATsJxH7
+- 📫 Me encontre em: [https://discord.gg/zV2ATsJxH7](https://discord.gg/Em5V8RGTDu)
 
 <!--
 **vrochacaio/vrochacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
