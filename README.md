@@ -54,6 +54,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-316192.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </br>
   </br>
   <img src="https://komarev.com/ghpvc/?username=vrochacaio&color=blueviolet">
