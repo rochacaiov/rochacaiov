@@ -25,7 +25,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>-->
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://raw.githubusercontent.com/rochacaiov/rochacaiov/06e497e82d67888baf791b1e033595575be395a8/images/vale-logo.svg"/>](https://www.tcs.com/)
+[<img align="left" height="94px" width="94px" alt="Vale S.A" src="https://raw.githubusercontent.com/rochacaiov/rochacaiov/06e497e82d67888baf791b1e033595575be395a8/images/vale-logo.svg"/>](https://www.vale.com/pt/)
 **Software Developer Analyst** \
 [**Vale S.A**](https://www.vale.com/pt/) • CLT/Terceirizado \
 Linguagens & Tecnologias: `Java`, `Spring`, `AngularJS`, `Azure` \
@@ -33,7 +33,7 @@ Projetos em destaque: [App](https://www.vale.com/pt/)
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_200_200/0/1656657976685?e=1694044800&v=beta&t=rYsna9qEGenhtIDa7-0dOmZv9uod4aty7XTCftCiwGc"/>](https://www.tcs.com/)
+[<img align="left" height="94px" width="94px" alt="TCS" src="https://media.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_200_200/0/1656657976685?e=1694044800&v=beta&t=rYsna9qEGenhtIDa7-0dOmZv9uod4aty7XTCftCiwGc"/>](https://www.tcs.com/)
 **Software Developer Analyst** \
 [**Tata Consultancy Services**](https://www.tcs.com/) • CLT \
 Linguagens & Tecnologias: `Java`, `Spring`, `AngularJS`, `Azure` \
@@ -41,7 +41,7 @@ Projetos em destaque: [App](https://www.tcs.com/)
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="DiazeroSecurity" src="https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w"/>](https://www.diazerosecurity.com.br/pt)
 **Backend Developer** \
 [**DiazeroSecurity**](https://www.diazerosecurity.com.br/pt) • CLT \
 Linguagens & Tecnologias: `Java`, `Spring`, `Docker`, `GCP` \
