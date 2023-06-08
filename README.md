@@ -2,8 +2,6 @@
 
 ## » Bem-Vindo(a), mero mortal!
 
-### Meu Status
-
 - 🔭 Trabalhando em sistemas voltados para equipamentos de mineração (Vale)
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Spring & Angular
