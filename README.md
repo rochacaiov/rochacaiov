@@ -25,9 +25,9 @@ Projetos em destaque: [App](https://nubank.com.br/)
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w"/>](https://nubank.com.br/)
 **Backend Developer** \
-[**DiazeroSecurity**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+[**DiazeroSecurity**](https://www.diazerosecurity.com.br/pt)) • Contract \
+Linguagens & Tecnologias: `Java`, `Spring`, `Docker`, `GCP` \
+Projetos em destaque: [App](https://odin.diazerosecurity.com.br/login))
 <br/>
 <br/>
 
