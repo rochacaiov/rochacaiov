@@ -34,10 +34,15 @@ Here are some ideas to get you started:
   <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
 </div>
  
-<div>
+<!--<div>
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochacaiov&exclude_repo=vrochacaio&hide_title=true&theme=gotham"/>
+</div>-->
+<div>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochacaiov&exclude_repo=vrochacaio&hide_title=true&theme=merko&layout=donut"/>
 </div>
+
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
   
