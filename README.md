@@ -23,6 +23,14 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>-->
 
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://logospng.org/wp-content/uploads/vale.png"/>](https://www.tcs.com/)
+**Software Developer Analyst** \
+[**Tata Consultancy Services**](https://www.tcs.com/) • Contract \
+Linguagens & Tecnologias: `Java`, `Spring`, `AngularJS`, `Azure` \
+Projetos em destaque: [App](https://www.tcs.com/)
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_200_200/0/1656657976685?e=1694044800&v=beta&t=rYsna9qEGenhtIDa7-0dOmZv9uod4aty7XTCftCiwGc"/>](https://www.tcs.com/)
 **Software Developer Analyst** \
 [**Tata Consultancy Services**](https://www.tcs.com/) • Contract \
