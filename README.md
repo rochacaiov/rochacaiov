@@ -12,6 +12,17 @@ Analista desenvolvedor de sistemas full-stack especializado em Java. Iniciado no
 
 
 
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
 <!--
 **vrochacaio/vrochacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -73,14 +84,3 @@ Here are some ideas to get you started:
   </br>
   <img src="https://komarev.com/ghpvc/?username=vrochacaio&color=blueviolet">
 </div>
-
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
