@@ -47,8 +47,6 @@ Projetos em destaque: [App](https://odin.diazerosecurity.com.br/login)
 <br/>
 <br/>
 
-https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w
-
 <!--
 **vrochacaio/vrochacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
