@@ -15,13 +15,23 @@ Analista desenvolvedor de sistemas full-stack especializado em Java. Iniciado no
 ## 💼 Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+<!--[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>-->
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w"/>](https://nubank.com.br/)
 **Software Engineer** \
 [**Nubank**](https://nubank.com.br/) • Contract \
 Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
+
+https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w
 
 <!--
 **vrochacaio/vrochacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
