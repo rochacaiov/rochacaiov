@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </div>-->
 <div>
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochacaiov&exclude_repo=vrochacaio&hide_title=true&theme=merko&layout=donut"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochacaiov&exclude_repo=vrochacaio&hide_title=true&theme=gruvbox&layout=donut"/>
 </div>
 
 
