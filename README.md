@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Caio!
 
-<img src="https://www.giantbomb.com/a/uploads/scale_small/0/8960/2650758-3994102578-17089.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
+<img src="https://github.com/rochacaiov/rochacaiov/assets/61987511/aebde992-f134-4412-b42c-a795792a7fc9" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
 
 Analista desenvolvedor de sistemas full-stack especializado em Java. Iniciado no mundo da tecnologia desde 2012, onde tive a oportunidade de desenvolver e gerenciar servidores para jogos. Hoje com mais de anos no mercado, tive a experiência na construção de um RPA (Robot Process Automation) com objetivo em gestão de segurança, modelagem de diversas entidades no banco de dados, experiências com muitas API's, dentre elas: Rapid7, Telegram, Google e outras. Atuei em sistemas para equipamentos de mineração destinados a empresa Vale.
