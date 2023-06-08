@@ -12,7 +12,7 @@ Analista desenvolvedor de sistemas full-stack especializado em Java. Iniciado no
 
 
 
-### Experiência de trabalho
+## 💼 Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
