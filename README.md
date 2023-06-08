@@ -3,8 +3,8 @@
 <div>
   </br>
   <p align="left">
-  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="16" width="16"/></a>
-  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="16" width="16"/></a>
+  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="24" width="24"/></a>
+  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="24" width="24"/></a>
 </div>
 
 ## » Bem-Vindo(a), mero mortal!
