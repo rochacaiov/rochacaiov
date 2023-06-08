@@ -25,9 +25,9 @@ Projetos em destaque: [App](https://nubank.com.br/)
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://raw.githubusercontent.com/rochacaiov/rochacaiov/06e497e82d67888baf791b1e033595575be395a8/images/vale-logo.svg"/>](https://www.tcs.com/)
 **Software Developer Analyst** \
-[**Tata Consultancy Services**](https://www.tcs.com/) • Contract \
+[**Vale S.A**](https://www.vale.com/pt/) • Contract \
 Linguagens & Tecnologias: `Java`, `Spring`, `AngularJS`, `Azure` \
-Projetos em destaque: [App](https://www.tcs.com/)
+Projetos em destaque: [App](https://www.vale.com/pt/)
 <br/>
 <br/>
 
