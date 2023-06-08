@@ -23,7 +23,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>-->
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://www.siegelgale.com/app/uploads/2021/10/SGCOM_Blog_211018.png"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://companieslogo.com/img/orig/TCS.NS-7401f1bd.png?t=1631949260"/>](https://nubank.com.br/)
 **Backend Developer** \
 [**Tata Consultancy Services**](https://www.diazerosecurity.com.br/pt) • Contract \
 Linguagens & Tecnologias: `Java`, `Spring`, `Docker`, `GCP` \
