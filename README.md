@@ -3,8 +3,8 @@
 <div>
   </br>
   <p align="left">
-  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="30" width="40"/></a>
-  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
+  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="25" width="25"/></a>
+  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="25" width="25"/></a>
 </div>
 
 ## » Bem-Vindo(a), mero mortal!
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
-    
+  
 <div>
   </br>
   </br>
