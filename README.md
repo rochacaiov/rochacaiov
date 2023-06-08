@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Caio!
 
-<img src="[https://raw.githubusercontent.com/rochacaiov/rochacaiov/images/—Pngtree—tarot card divination wizard magic_6690468.png](https://github.com/rochacaiov/rochacaiov/assets/61987511/68a7e86a-4151-4fba-8cc0-f97018a95d7e)" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
+<img src="https://raw.githubusercontent.com/rochacaiov/rochacaiov/images/—Pngtree—tarot card divination wizard magic_6690468.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
 
 Analista desenvolvedor de sistemas full-stack especializado em Java. Iniciado no mundo da tecnologia desde 2012, onde tive a oportunidade de desenvolver e gerenciar servidores para jogos. Hoje com mais de anos no mercado, tive a experiência na construção de um RPA (Robot Process Automation) com objetivo em gestão de segurança, modelagem de diversas entidades no banco de dados, experiências com muitas API's, dentre elas: Rapid7, Telegram, Google e outras. Atuei em sistemas para equipamentos de mineração destinados a empresa Vale.
