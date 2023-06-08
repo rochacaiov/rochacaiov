@@ -37,13 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-  </br>
-  <p align="center">
-  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="30" width="40"/></a>
-  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
-</div>
  
 <!--<div>
   <p align="center">
@@ -56,6 +49,13 @@ Here are some ideas to get you started:
 
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
+  
+<div>
+  </br>
+  <p align="center">
+  <a href="https://linkedin.com/in/vrochacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrochacaio" height="30" width="40"/></a>
+  <a href="mailto:vrocha.caio98@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
+</div>
   
 <div>
   </br>
