@@ -1,6 +1,6 @@
 <img src="https://github.com/rochacaiov/rochacaiov/assets/61987511/aebde992-f134-4412-b42c-a795792a7fc9" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
-## » Bem-Vindo(a), mero mortal!
+## 🖐️ Bem-Vindo(a), mero mortal!
 
 - 🔭 Trabalhando em sistemas voltados para equipamentos de mineração (Vale)
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
