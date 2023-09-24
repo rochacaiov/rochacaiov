@@ -40,7 +40,60 @@ Linguagens & Tecnologias: `Java`, `Spring`, `AngularJS`, `Azure` \
 Projetos em destaque: [App](https://www.tcs.com/)
 <br/>
 <br/>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124.41" height="22.009" viewBox="0 0 124.41 22.009">
+<defs>
+<clipPath id="clip-path">
+<path id="Caminho_3439" data-name="Caminho 3439" d="M223.766-77.408l-3.141,3.141H204.919l12.564-18.868H204.919l3.141-3.141h15.706L211.2-77.408Z" transform="translate(-204.919 96.276)" fill="none"></path>
+</clipPath>
+<linearGradient id="linear-gradient" x1="0.372" y1="0.313" x2="1" y2="0.313" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#1b4eff"></stop>
+<stop offset="0.1" stop-color="#1b56fd"></stop>
+<stop offset="0.2" stop-color="#1a5efb"></stop>
+<stop offset="0.3" stop-color="#1a66f9"></stop>
+<stop offset="0.4" stop-color="#196df7"></stop>
+<stop offset="0.5" stop-color="#1975f5"></stop>
+<stop offset="0.6" stop-color="#187df3"></stop>
+<stop offset="0.7" stop-color="#1784f1"></stop>
+<stop offset="0.8" stop-color="#178cef"></stop>
+<stop offset="0.9" stop-color="#1694ed"></stop>
+<stop offset="1" stop-color="#169ceb"></stop>
+</linearGradient>
+<clipPath id="clip-path-2">
+<path id="Caminho_3441" data-name="Caminho 3441" d="M318.183-77.408l-3.141,3.141H302.477V-96.276h15.706l-3.141,3.141h-9.423v6.282h10.994l-3.141,3.141h-7.853v6.3Z" transform="translate(-302.477 96.276)" fill="none"></path>
+</clipPath>
+<clipPath id="clip-path-3">
+<path id="Caminho_3443" data-name="Caminho 3443" d="M400.182-74.267h-3.141v-9.423H386.047v9.423h-3.141V-96.276h14.135l3.141,3.147v6.294l-2.094,1.574,2.094,1.571ZM386.047-86.832h10.994v-6.3H386.047Z" transform="translate(-382.906 96.276)" fill="none"></path>
+</clipPath>
+<clipPath id="clip-path-4">
+<path id="Caminho_3445" data-name="Caminho 3445" d="M485.853-77.411l-3.162,3.144H471.7l-3.141-3.144V-93.132l3.141-3.144h10.994l3.162,3.144Zm-14.156,0h11.015V-93.135H471.7Z" transform="translate(-468.556 96.276)" fill="none"></path>
+</clipPath>
+</defs>
+<g id="Grupo_1623" data-name="Grupo 1623" transform="translate(0 96.276)">
+<path id="Caminho_3435" data-name="Caminho 3435" d="M17.276-77.411l-3.162,3.144H0V-96.276H14.135l3.141,3.144Zm-14.135,0H14.135V-93.135H3.141Z" fill="#fff"></path>
+<path id="Caminho_3436" data-name="Caminho 3436" d="M89.131-74.267h3.141V-96.276H89.131Z" transform="translate(-68.756)" fill="#fff"></path>
+<path id="Caminho_3437" data-name="Caminho 3437" d="M134.255-74.267h-3.141V-82.12H120.12v7.853h-3.141V-93.129l3.141-3.147h10.994l3.141,3.144ZM120.12-85.261h10.994v-7.874H120.12Z" transform="translate(-90.237)" fill="#fff"></path>
+<g id="Grupo_1624" data-name="Grupo 1624" transform="translate(46.845 -96.276)" clip-path="url(#clip-path)">
+<g id="Grupo_1623-2" data-name="Grupo 1623" transform="translate(-46.845 0)">
+<path id="Caminho_3438" data-name="Caminho 3438" d="M-202.237-30.128h124.41V-8.119h-124.41Z" transform="translate(202.237 30.128)" fill="url(#linear-gradient)"></path>
+</g>
+</g>
+<g id="Grupo_1626" data-name="Grupo 1626" transform="translate(69.147 -96.276)" clip-path="url(#clip-path-2)">
+<g id="Grupo_1625" data-name="Grupo 1625" transform="translate(-69.147 0)">
+<path id="Caminho_3440" data-name="Caminho 3440" d="M-202.237-30.128h124.41V-8.119h-124.41Z" transform="translate(202.237 30.128)" fill="url(#linear-gradient)"></path>
+</g>
+</g>
+<g id="Grupo_1628" data-name="Grupo 1628" transform="translate(87.533 -96.276)" clip-path="url(#clip-path-3)">
+<g id="Grupo_1627" data-name="Grupo 1627" transform="translate(-87.533 0)">
+<path id="Caminho_3442" data-name="Caminho 3442" d="M-202.237-30.128h124.41V-8.119h-124.41Z" transform="translate(202.237 30.128)" fill="url(#linear-gradient)"></path>
+</g>
+</g>
+<g id="Grupo_1630" data-name="Grupo 1630" transform="translate(107.113 -96.276)" clip-path="url(#clip-path-4)">
+<g id="Grupo_1629" data-name="Grupo 1629" transform="translate(-107.113 0)">
+<path id="Caminho_3444" data-name="Caminho 3444" d="M-202.237-30.128h124.41V-8.119h-124.41Z" transform="translate(202.237 30.128)" fill="url(#linear-gradient)"></path>
+</g>
+</g>
+</g>
+</svg>
 [<img align="left" height="94px" width="94px" alt="DiazeroSecurity" src="https://media.licdn.com/dms/image/C560BAQFesjmksscQ-g/company-logo_200_200/0/1519864035792?e=1694044800&v=beta&t=lbw7SxdLsap4UbolT-wnLj8ZflXmYPnxgtCvBqQVh0w"/>](https://www.diazerosecurity.com.br/pt)
 **Backend Developer** \
 [**DiazeroSecurity**](https://www.diazerosecurity.com.br/pt) • CLT \
