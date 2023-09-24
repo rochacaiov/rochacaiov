@@ -40,7 +40,7 @@ Linguagens & Tecnologias: `Java`, `Spring`, `AngularJS`, `Azure` \
 Projetos em destaque: [App](https://www.tcs.com/)
 <br/>
 <br/>
-[<img align="left" height="94px" width="94px" alt="DiazeroSecurity" src="https://i.imgur.com/FBhq37i.png"/>](https://www.diazerosecurity.com.br/pt)
+[<img align="left" height="94px" width="94px" alt="DiazeroSecurity" src="https://www.diazerosecurity.com.br/images/favicon.png"/>](https://www.diazerosecurity.com.br/pt)
 **Backend Developer** \
 [**DiazeroSecurity**](https://www.diazerosecurity.com.br/pt) • CLT \
 Linguagens & Tecnologias: `Java`, `Spring`, `Docker`, `GCP` \
